@@ -63,7 +63,7 @@ MACOS_RELEASES = [
             'MacBookPro18,2',
             'MacBookPro18,3',
             'MacBookPro18,4',
-            'Macmini9,1'
+            'Macmini9,1',
             'MacPro7,1',
             'VirtualMac2,1',
         ]
